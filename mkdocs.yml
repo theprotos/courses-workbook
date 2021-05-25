@@ -1,0 +1,13 @@
+site_name: My workbook
+theme:
+  name: mkdocs
+  custom_dir: disable-toc
+  #include_sidebar: false
+
+plugins:
+  - search
+
+markdown_extensions:
+  - extra
+  - smarty
+  - sane_lists
