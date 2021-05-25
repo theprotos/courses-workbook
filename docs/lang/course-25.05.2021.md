@@ -1,7 +1,7 @@
 # Udemy - 500+ American Slang  Spoken English Vocabulary Course
 
 ##Letter A
-<details><summary>expand section</summary><p>
+<details open><summary>expand section</summary><p>
 
 ###24/7
 
@@ -135,7 +135,7 @@
 </p></details>
 
 ##Letter B
-<details><summary>expand section</summary><p>
+<details open><summary>expand section</summary><p>
 
 ### A BABY BUMP
 |  |   |
