@@ -1,8 +1,7 @@
 # Udemy - 500+ American Slang  Spoken English Vocabulary Course
 
-##A
-<details>
-<summary>expand section</summary><p>
+##Letter A
+<details><summary>expand section</summary><p>
 
 ###24/7
 
@@ -133,12 +132,10 @@
 |Examples|So you better not be AWOL|
 |Notes||
 
-</p>
-</details>
+</p></details>
 
-##B
-<details>
-<summary>expand section</summary><p>
+##Letter B
+<details><summary>expand section</summary><p>
 
 ### A BABY BUMP
 |  |   |
@@ -201,5 +198,4 @@
 |Examples||
 |Notes||
 
-</p>
-</details>
+</p></details>
