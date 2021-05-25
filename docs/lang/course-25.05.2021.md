@@ -1,8 +1,7 @@
 # Udemy - 500+ American Slang  Spoken English Vocabulary Course
 
-##A
-<details>
-<summary>expand section</summary><p>
+##Letter A
+<details><summary>expand section</summary><p>
 
 ###24/7
 
@@ -25,7 +24,7 @@
 |Notes||
 
 
-##ADORKABLE
+### ADORKABLE
 |  |   |
 |---|---|
 |Spell||
@@ -34,7 +33,7 @@
 |Examples|You look so adorkable when you wear your glasses|
 |Notes||
 
-##AFTERPARTY
+### AFTERPARTY
 |  |   |
 |---|---|
 |Spell||
@@ -43,7 +42,7 @@
 |Examples|He is too dunk to go to the afterparty|
 |Notes||
 
-##A-GAME
+### A-GAME
 |  |   |
 |---|---|
 |Spell||
@@ -79,7 +78,7 @@
 |Examples|How are you and the ankle biters? There is always possibility of having a few rugrats in the future|
 |Notes||
 
-###TO BE/FEEL ANTSY
+### TO BE/FEEL ANTSY
 |  |   |
 |---|---|
 |Spell|AN(t)SY|
@@ -133,12 +132,10 @@
 |Examples|So you better not be AWOL|
 |Notes||
 
-</p>
-</details>
+</p></details>
 
-##B
-<details>
-<summary>expand section</summary><p>
+##Letter B
+<details><summary>expand section</summary><p>
 
 ### A BABY BUMP
 |  |   |
@@ -155,9 +152,44 @@
 |Spell||
 |Appropriate|'ass' might offend soe people|
 |Meaning|someone who does whatever they want, uncompromising, might be intimidating because of these characteristics; seen as cool|
-|Examples||
+|Examples|This game is so badass, it is going to be game of the year for sure|
 |Notes||
 
+### BAE, BOO, BABY
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|boyfriend or girlfriend|
+|Examples||
+|Notes|BAE, BOO - caribbean or afro|
+
+### TO BAIL
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|1)To leave quickly, abruptly, without warning; 2) to not show up, not attend as expected|
+|Examples|He bailed out on me!|
+|Notes||
+
+### NOT HAVE THE BALLS
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|can offend, use with friends|
+|Meaning|to not have the courage, commitment, determination|
+|Examples|Who here has no balls to challenge authority|
+|Notes||
+
+### BALLS
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|use with friends|
+|Meaning|testicles, boys, junk|
+|Examples||
+|Notes||
 
 |  |   |
 |---|---|
@@ -167,39 +199,4 @@
 |Examples||
 |Notes||
 
-|  |   |
-|---|---|
-|Spell||
-|Appropriate|any|
-|Meaning||
-|Examples||
-|Notes||
-
-
-|  |   |
-|---|---|
-|Spell||
-|Appropriate|any|
-|Meaning||
-|Examples||
-|Notes||
-
-
-|  |   |
-|---|---|
-|Spell||
-|Appropriate|any|
-|Meaning||
-|Examples||
-|Notes||
-
-|  |   |
-|---|---|
-|Spell||
-|Appropriate|any|
-|Meaning||
-|Examples||
-|Notes||
-
-</p>
-</details>
+</p></details>
