@@ -274,12 +274,45 @@
 |  |   |
 |---|---|
 |Spell||
+|Appropriate|very vulgar and dirty|
+|Meaning|to masturbate, jerk off|
+|Examples||
+|Notes||
+
+### BEER ME(HER/HIM)
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|command for someone to give someone else a beer|
+|Examples||
+|Notes||
+
+### NO BIGGIE
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|no problem, don't worry about it, whatever|
+|Examples||
+|Notes||
+
+### A BIT
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|a small amount|
+|Examples||
+|Notes||
+
+|  |   |
+|---|---|
+|Spell||
 |Appropriate|any|
 |Meaning||
 |Examples||
 |Notes||
-
-
 
 ##Letter C
 
