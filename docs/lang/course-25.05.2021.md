@@ -1,9 +1,8 @@
 # Udemy - 500+ American Slang  Spoken English Vocabulary Course
 
-##Letter A
-<details open><summary>expand section</summary><p>
+## Letter A
 
-###24/7
+### 24/7
 
 |  |   |
 |---|---|
@@ -14,7 +13,7 @@
 |Notes||
 
 
-###THE 5-0
+### THE 5-0
 |  |   |
 |---|---|
 |Spell|the five-o|
@@ -132,10 +131,9 @@
 |Examples|So you better not be AWOL|
 |Notes||
 
-</p></details>
 
-##Letter B
-<details open><summary>expand section</summary><p>
+## Letter B
+
 
 ### A BABY BUMP
 |  |   |
@@ -191,6 +189,88 @@
 |Examples||
 |Notes||
 
+### TO GO BANANAS
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|to go (become) crazy|
+|Examples|That game was bananas.|
+|Notes||
+
+### BALLER/BALLING
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|awesome, cool|
+|Examples|This is the least balling game I've played.|
+|Notes||
+
+### TO BANG
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|seen as being dirty|
+|Meaning|to have sex, to screw, fuck|
+|Examples|When is the first time you ever banged someone?|
+|Notes||
+
+### TO BE BANGING
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|can be seen as being rude, dirty|
+|Meaning|hit, attractive, good looking|
+|Examples|Damn girl you look banging in that dress.|
+|Notes||
+
+### THE BASES: FIRST, SECOND, THIRD .. HOME RUN
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|use with friends|
+|Meaning|to describe what you did physically/sexually with someone. First base=kiss; Second=fill someone up, above belt; Third=below belt|
+|Examples||
+|Notes||
+
+### TO BE BASIC
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|to be boring, dull, uninteresting, vanilla|
+|Examples|That movie looks really basic|
+|Notes||
+
+### BATSHIT CRAZY
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|use with friends|
+|Meaning|to go really crazy, to be insane|
+|Examples||
+|Notes||
+
+### TO BE BEAT
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|to be physically exhausted, really tired|
+|Examples|I am just beat from work|
+|Notes||
+
+### TO BEAT SOMEONE/ TO BE BEATEN 
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning|to defeat someone, win against|
+|Examples||
+|Notes||
+
+### TO BEAT YOUR MEAT
 |  |   |
 |---|---|
 |Spell||
@@ -199,4 +279,32 @@
 |Examples||
 |Notes||
 
-</p></details>
+
+
+##Letter C
+
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning||
+|Examples||
+|Notes||
+
+
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning||
+|Examples||
+|Notes||
+
+
+|  |   |
+|---|---|
+|Spell||
+|Appropriate|any|
+|Meaning||
+|Examples||
+|Notes||
